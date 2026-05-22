@@ -60,8 +60,6 @@ ID    Book Name            Status       Borrower
 ## 👩‍💻 Author
 
 **Tahira Sana**  
-Student — BSCMAI | International Islamic University  
-Registration No: 16011/BSCMAI/F25
 
 ---
 
